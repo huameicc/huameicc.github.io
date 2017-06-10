@@ -1,1 +1,5 @@
 theme: jekyll-theme-hacker
+title: 小本天空
+description: Use Hacker -- a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
